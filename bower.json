@@ -1,0 +1,14 @@
+{
+  "name": "udacity-html-css",
+  "private": true,
+  "dependencies": {
+    "jquery": "~3.3.1",
+    "popper.js": "~1.14.3",
+    "bootstrap": "~4.0.0-alpha.6",
+    "modernizr": "~2.8.1"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
